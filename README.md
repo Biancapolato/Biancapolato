@@ -1,7 +1,7 @@
 ### Oii, sou a Bianca Polato!
 
 - 💼 Atualmente estudo POWER BI / PYTHON 
-- ✍ Foco em Data analytics
+- ✍ Foco em Data engineer 
 - 📧 Contato: biancapolato62@gmail.com
 
 <div align="center">
